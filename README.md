@@ -3,7 +3,8 @@
     <tr><th align="left">Category</th><th align="left">Channels</th><th align="left">Playlist</th></tr>
   </thead>
   <tbody>
-    <tr><td>Auto</td><td align="right">13</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/auto.m3u</code></td></tr>
+    <tr><td>Bien Sport</td><td align="right">13</td><td nowrap><code>https://s6.up4ever.download:183/d/a3oeznyypqy52ag4wrneawj3ngtmdc5ioga63g7e7kdgrkqu4tv2dmhpfsreebyogkhynbxd/Max%202.m3u</code></td></tr>
+     <tr><td>Auto</td><td align="right">13</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/auto.m3u</code></td></tr>
     <tr><td>Animation</td><td align="right">33</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/animation.m3u</code></td></tr>
     <tr><td>Business</td><td align="right">43</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/business.m3u</code></td></tr>
     <tr><td>Classic</td><td align="right">46</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/classic.m3u</code></td></tr>
